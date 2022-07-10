@@ -1,7 +1,7 @@
 ## 별코딩의 리엑트
 
 --- 
-### [useState 15만에 마스터하기](https://www.youtube.com/watch?v=G3qglTF-fFI&list=PLZ5oZ2KmQEYjwhSxjB_74PoU6pmFzgVMO&index=1&ab_channel=%EB%B3%84%EC%BD%94%EB%94%A9)
+### [useState 15분만에 마스터하기](https://www.youtube.com/watch?v=G3qglTF-fFI&list=PLZ5oZ2KmQEYjwhSxjB_74PoU6pmFzgVMO&index=1&ab_channel=%EB%B3%84%EC%BD%94%EB%94%A9)
 
 1. const[state, setState] = useState(초기값). state에는 현재값, setState는 state를 변경하는 함수. setState 사용 시, 재렌더링이 된다.
 
