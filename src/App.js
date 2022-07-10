@@ -1,11 +1,10 @@
-import ByulHooksUseEffect from "./component/byulcoding/hooks/useeffect/Byul-Hooks-UseEffect";
+import ByulHooksUseRefPartOne from "./component/byulcoding/hooks/userefpartone/Byul-Hooks-UseRefPartOne";
 
 function App() {
   return (
     <div className="App">
       <div className="react-practice">
-        <ByulHooksUseEffect></ByulHooksUseEffect>
-
+        <ByulHooksUseRefPartOne></ByulHooksUseRefPartOne>
       </div>
     </div>
   );

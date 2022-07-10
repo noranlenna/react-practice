@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import Timer from "./component/Timer";
 
-function ByulHooksUseEffectOne(props) {
+function ByulHooksUseEffectTwo(props) {
 	const [showTimer,setShowTimer] = useState(false);
 	return (
 		<div>
@@ -11,4 +11,4 @@ function ByulHooksUseEffectOne(props) {
 	);
 }
 
-export default ByulHooksUseEffectOne;
+export default ByulHooksUseEffectTwo;
